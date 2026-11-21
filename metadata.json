@@ -1,0 +1,6 @@
+{
+  "name": "MyExpense",
+  "description": "Personal Expense Tracker for managing daily expenses, income sources, category budgets, savings goals, and financial analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
